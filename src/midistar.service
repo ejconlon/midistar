@@ -1,0 +1,9 @@
+[Unit]
+Description=Connect all USB MIDI devices
+
+[Service]
+Type=exec
+ExecStart=/usr/share/midistar/midistar.py
+
+[Install]
+WantedBy=multi-user.target
