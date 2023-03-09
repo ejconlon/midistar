@@ -13,6 +13,6 @@ For Raspberry Pi, you can install the minimal Manjaro ARM image with the standar
 ## Example topology
 
 ```
-Raspberry Pi <==> Powered USB hub <==> {MIDI keyboards, synths, sequencers}`
+Raspberry Pi <==> Powered USB hub <==> {MIDI keyboards, synths, sequencers}
 ```
 
